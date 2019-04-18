@@ -1,0 +1,8 @@
+MOVER	(P,4)	(P,null)	
+ADD	(P,4)	='1'	
+MOVER	(P,5)	(P,null)	
+ADD	(P,5)	='5'	
+MOVER	(P,4)	(P,null)	
+MOVER	(P,5)	(P,null)	
+ADD	(P,4)	='15'	
+ADD	(P,5)	='10'	
