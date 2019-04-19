@@ -1,0 +1,12 @@
+import
+public class Name{
+	String str;
+	int rollNo;
+	
+	public static void main(){
+		int abc = 1;
+		float xyz = 15.5;
+		xyz = abc + 5.5;
+	}
+
+}
